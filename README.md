@@ -1,7 +1,2 @@
-# Code Institute
-
-Welcome Fatima Aminu,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+# My very first gitpod
+welcome!
